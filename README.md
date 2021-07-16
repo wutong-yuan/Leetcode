@@ -1,2 +1,2 @@
 # Leetcode
-Source code and learning notes
+Source code and learning notes for Leetcode problems
